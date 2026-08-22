@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://orcamentos-simplificados.bielzinhovale.chatgpt.site/sitemap.xml
+Sitemap: https://gabrielschmeisk.github.io/orcamentos-simplificados-site/sitemap.xml
