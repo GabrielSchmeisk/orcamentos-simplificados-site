@@ -26,7 +26,12 @@ jobs:
       - name: Preparar site estático
         run: |
           mkdir public
-          unzip -q GitHub-Pages-Orcamentos-upload.zip -d public
+          rsync -a \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='public' \
+            --exclude='GitHub-Pages-Orcamentos-upload.zip' \
+            ./ public/
           touch public/.nojekyll
       - name: Configurar Pages
         uses: actions/configure-pages@v5
