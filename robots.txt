@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://orcamentos-simplificados.bielzinhovale.chatgpt.site/sitemap.xml
