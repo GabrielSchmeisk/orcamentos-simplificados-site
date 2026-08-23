@@ -1,4 +1,4 @@
 :HL["/orcamentos-simplificados-site/_next/static/chunks/0fxi_h-xzasxo.css","style"]
-:HL["/orcamentos-simplificados-site/_next/static/chunks/0x2xjpqx6fg-j.css","style"]
+:HL["/orcamentos-simplificados-site/_next/static/chunks/0vvxo9pf-g7bv.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"8BLv-_g2BZIwVHLtg7rcB"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"AJ4LyEXOmP0gjnAspxAkm"}
